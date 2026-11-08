@@ -1,0 +1,14 @@
+.build/
+build/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+DropTests/
+.claude/
+CLAUDE.md
+.DS_Store
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+.env
